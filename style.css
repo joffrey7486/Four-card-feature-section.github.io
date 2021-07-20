@@ -72,10 +72,10 @@ p{
     border-top: solid 4px;
     border-top-color: hsl(212, 86%, 64%);
 }
-.builder .img{background-image: url(/images/icon-team-builder.svg);}
-.supervisor .img{background-image: url(/images/icon-supervisor.svg);}
-.karma .img{background-image: url(/images/icon-karma.svg);}
-.calculator .img{background-image: url(/images/icon-calculator.svg);}
+.builder .img{background-image: url(https://raw.githubusercontent.com/joffrey7486/Four-card-feature-section.github.io/06fa3b7f49fa9e0fb44bcad0ce7ea0b4dc71e64d/images/icon-team-builder.svg);}
+.supervisor .img{background-image: url(https://raw.githubusercontent.com/joffrey7486/Four-card-feature-section.github.io/06fa3b7f49fa9e0fb44bcad0ce7ea0b4dc71e64d/images/icon-supervisor.svg);}
+.karma .img{background-image: url(https://raw.githubusercontent.com/joffrey7486/Four-card-feature-section.github.io/06fa3b7f49fa9e0fb44bcad0ce7ea0b4dc71e64d/images/icon-karma.svg);}
+.calculator .img{background-image: url(https://raw.githubusercontent.com/joffrey7486/Four-card-feature-section.github.io/06fa3b7f49fa9e0fb44bcad0ce7ea0b4dc71e64d/images/icon-calculator.svg);}
 .card .img{
     height: 100px;
     width: 100px;
