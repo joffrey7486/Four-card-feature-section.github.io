@@ -170,6 +170,6 @@ footer{position: relative; bottom: 40px;}
         left: 190px;
     }
     footer{
-        top: 470px;
+        bottom: -30rem;
     }
 }
