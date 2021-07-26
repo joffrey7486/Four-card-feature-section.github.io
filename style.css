@@ -128,7 +128,7 @@ footer{position: relative; bottom: 40px;}
     }
 }
 
-@media (max-width: 375px){
+@media (max-width: 620px){
     .header h1{font-size: 25px;}
     .header h2{font-size: 25px;}
     .header p{
